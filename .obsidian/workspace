@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "541e761db17947fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "060b75e7d22bd04a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sadness.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "04eaa4fc3b557b20",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "inside.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c02bca64d2541988",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb957f1d4d128476",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c8571bd05431e39",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4018831d0b3b89db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "59f43a242e4edcaa",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0e4e6e3f21dc15bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "5aedd12cf17c5324",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "491e805b8397dc54",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sadness.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dbdedc9a5055a196",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sadness.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9be45711bc1cea10",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7c7d7f50dbff318f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sadness.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "060b75e7d22bd04a",
+  "lastOpenFiles": [
+    "inside.md",
+    "Sadness.md"
+  ]
+}
